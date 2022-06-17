@@ -1,2 +1,2 @@
-# c-prog-
-My first prog of  .cpp
+My c++ prog of  list
+ 
